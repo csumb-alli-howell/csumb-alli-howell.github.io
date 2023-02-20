@@ -1,0 +1,28 @@
+  h1 {
+    color: navy;
+    background-color: lightblue;
+    border: 7px solid white;
+    padding: 20px;
+    border-radius: 25px;
+    width: 40%; 
+    font-size: 3vw;
+    text-align: center;
+  }
+
+    body{
+      
+ background-image: url("https://www.meme-arsenal.com/memes/6922e71f23829c6733ba378c77ad5780.jpg");
+ background-size: cover;
+ color: floralwhite;
+ font-size: 1vw;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto; 
+    /* Image isn't responsive, it didn't work in class either*/
+  }
+
+  a {
+    color: pink;
+  }
