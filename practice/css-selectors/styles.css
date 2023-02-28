@@ -1,0 +1,29 @@
+
+    main span {
+      color: red;
+      background-color: yellow;
+    }
+
+    nav ul li span{
+      color: blue;
+    }
+
+    #degreeProgramCD {
+      border-top-left-radius: 25px;
+      border-top-right-radius: 25px;
+    }
+
+    #computerProgramCD {
+      border-bottom-right-radius: 25px;
+      border-bottom-left-radius: 25px;
+    }
+
+    img {
+      width: 50%;
+      height: auto;
+    }
+
+    .minorImage {
+      border: 10px solid green;
+      padding: 10px;
+    }
